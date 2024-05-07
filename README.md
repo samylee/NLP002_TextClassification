@@ -1,4 +1,4 @@
-# text_classification_pytorch
+# NLP_2_TextClassification
 NLP002: text classification using word2vec
 
 ## 使用说明
